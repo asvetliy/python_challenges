@@ -9,7 +9,7 @@
 | 1 | Personalised Greeting | `challenge/01-greeting` | ✅ Done |
 | 2 | Age Calculator | `challenge/02-age-calculator` | ✅ Done |
 | 3 | Temperature Converter | `challenge/03-temperature-converter` | ✅ Done |
-| 4 | Shopping Receipt | `challenge/04-shopping-receipt` | ⏳ Pending |
+| 4 | Shopping Receipt | `challenge/04-shopping-receipt` | ✅ Done |
 | 5 | Profile Card | `challenge/05-profile-card` | ⏳ Pending |
 
 ## Outputs
@@ -45,3 +45,14 @@
 **Output:**
 
 ![Challenge 3 Output](screenshots/challenge_03_output.png)
+
+
+### Challenge 4 — Shopping Receipt
+
+**Concepts:** `input()`, f-strings, string concatenation, math actions
+
+**Solution file:** `challenge_04_shopping_receipt.py`
+
+**Output:**
+
+![Challenge 4 Output](screenshots/challenge_04_output.png)
