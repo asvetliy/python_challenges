@@ -56,3 +56,14 @@
 **Output:**
 
 ![Challenge 4 Output](screenshots/challenge_04_output.png)
+
+
+### Challenge 5 — Profile Card
+
+**Concepts:** `input()`, f-strings, string concatenation, math actions
+
+**Solution file:** `challenge_05_profile_card.py`
+
+**Output:**
+
+![Challenge 5 Output](screenshots/challenge_05_output.png)
